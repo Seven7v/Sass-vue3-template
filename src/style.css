@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  height: 100% !important;
+  width: 100% !important;
+  overflow-x: hidden;
+  min-width: 786px;
+  overflow-x: hidden;
+}
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0 !important;
+}
+#app{
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+ }
